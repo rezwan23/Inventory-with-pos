@@ -1,0 +1,5 @@
+img#blah {
+    padding: 15px;
+    border: 1px solid #ededed;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
